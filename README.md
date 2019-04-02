@@ -1,4 +1,4 @@
-# DERBY_NETBEANS8
+# DERBY_NETBEANS
 Рабочие драйверы и тестовая база данных Derby для NetBeans 8.2
 
 Логин и пароль для тестовой базы: **app**
